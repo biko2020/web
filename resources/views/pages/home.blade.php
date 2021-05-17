@@ -1,6 +1,6 @@
 @extends('index')
 
-@section('title','Home|Laravel')
+@section('title','Home|'.{{env('APP_NAME')}})
     
 
 @section('content')
