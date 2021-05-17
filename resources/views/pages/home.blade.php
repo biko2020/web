@@ -1,6 +1,6 @@
 @extends('index')
 
-@section('title', 'Home |'.config('app.name'))
+@section('title', 'Home |' .config('app.name'))
     
 
 @section('content')
