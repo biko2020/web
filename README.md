@@ -1,3 +1,3 @@
-# first app laravel
+# Application laravel
 
-this is my first app with laravel.
+this is app with laravel.
