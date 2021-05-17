@@ -1,3 +1,3 @@
 # Application laravel
 
-this is app with laravel.
+this is web site with laravel.

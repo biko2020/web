@@ -4,14 +4,14 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Laravel App</title>
+        <title>Home | Laravel App</title>
 
     </head>
     <body>
-       <h1>Hello form Quebec</h1>
+       <h1>Hello form Morocco</h1>
        <p>It's currently {{ date('h:i A') }}.</p>
        <footer>
-       <p>&copy; Copyright {{date('Y')}} &middot; <a href="#">About-us</a></p>
+       <p>&copy; Copyright {{date('Y')}} &middot; <a href="/about-us">About-us</a></p>
        </footer>
     </body>
 </html>
