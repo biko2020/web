@@ -11,7 +11,7 @@
 
     @yield('content')
 
-   
+       
 
        <footer>
             <p>&copy; Copyright {{date('Y')}} 

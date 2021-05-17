@@ -1,6 +1,6 @@
 @extends('index')
 
-@section('title','Home|'.{{env('APP_NAME')}})
+@section('title', 'Home |'.config('app.name'))
     
 
 @section('content')
