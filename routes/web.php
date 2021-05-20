@@ -14,3 +14,4 @@ Route::get('/', function(){
 Route::get('/Notre page about Us', function(){
     return view('pages.about');
 })->name('page_about');// nome de notre route soit en le met en bas
+

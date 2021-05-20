@@ -1,7 +1,5 @@
-@extends('index')
+@extends('layouts.index', ['title'=>'Home'])
 
-@section('title', 'Home |' .config('app.name'))
-    
 
 @section('content')
 
@@ -11,4 +9,4 @@
        <p class="text-lg text-gray-800">It's currently {{ date('h:i A') }}.</p>
        
   
-@endsection
+@endsection  
